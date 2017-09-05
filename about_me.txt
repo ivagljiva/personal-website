@@ -21,4 +21,10 @@ curriculums for these fields, I have also had the opportunity to take advanced
 courses that will be useful and relevant to my future research. These include
 Functional Genomics, Bioinformatics, Machine Learning, Data Mining, and Algorithms.
 
-I am also involved in a number of extracurricular endeavors that expand my experience in these areas
+I am involved in a number of extracurricular endeavors that expand my
+experience in these areas. First and foremost is my work as a research assistant
+in Dr. Jean-Francois Pombert's lab. There, I have had the opportunity to learn
+the ropes of genomics research - from culturing and DNA isolation to sequencing,
+genome annotation and assembly. My projects focus primarily on comparative
+genomics of bacterial genomes, though I have also assisted with more computational
+work such as the development of a SNP-calling pipeline.
