@@ -41,3 +41,6 @@ performance computing community. We are working towards optimizing scientific
 applications so that run efficiently on our custom-built cluster; this endeavor
 will give me more experience with computer hardware and an under-the-hood view
 of scientific computing.
+
+I am currently applying to graduate school PhD programs in Computational Biology
+and related fields.
