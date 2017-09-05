@@ -19,7 +19,8 @@ interdisciplinary foundation of knowledge in both biology and CS was my first
 step in preparing for this future. As well as following standard undergraduate
 curriculums for these fields, I have also had the opportunity to take advanced
 courses that will be useful and relevant to my future research. These include
-Functional Genomics, Bioinformatics, Machine Learning, Data Mining, and Algorithms.
+Functional Genomics, Bioinformatics, Machine Learning, Data Mining, Algorithms,
+and Data-intensive Computing.
 
 I am involved in a number of extracurricular endeavors that expand my
 experience in these areas. First and foremost is my work as a research assistant
@@ -28,3 +29,15 @@ the ropes of genomics research - from culturing and DNA isolation to sequencing,
 genome annotation and assembly. My projects focus primarily on comparative
 genomics of bacterial genomes, though I have also assisted with more computational
 work such as the development of a SNP-calling pipeline.
+
+In addition to research, I hone my teaching skills by working as a teaching
+assistant for the Computer Science department. Depending on my schedule, I run
+the lab section for one of two introductory programming courses - Introduction
+to Object-Oriented Programming I (a Java course) or Introduction to Computer
+Programming (a C++ course). This involves giving weekly review lectures and
+discussing homework assignments. Finally, I have recently joined a group of
+students who will be competing in the Student Cluster Competition run by the high-
+performance computing community. We are working towards optimizing scientific
+applications so that run efficiently on our custom-built cluster; this endeavor
+will give me more experience with computer hardware and an under-the-hood view
+of scientific computing.
