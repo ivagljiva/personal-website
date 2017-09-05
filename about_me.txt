@@ -20,7 +20,7 @@ step in preparing for this future. As well as following standard undergraduate
 curriculums for these fields, I have also had the opportunity to take advanced
 courses that will be useful and relevant to my future research. These include
 Functional Genomics, Bioinformatics, Machine Learning, Data Mining, Algorithms,
-and Data-intensive Computing.
+Data-intensive Computing, and Web Design.
 
 I am involved in a number of extracurricular endeavors that expand my
 experience in these areas. First and foremost is my work as a research assistant
