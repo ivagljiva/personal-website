@@ -48,3 +48,14 @@ table {
 }
 /* End Reset CSS */
 /* Begin Site Styles */
+html {
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+}
+h1 {
+	text-align: center;
+}
+p {
+	text-align: left;
+	text-indent: 2em;
+}
