@@ -66,6 +66,12 @@ p {
 	text-indent: 2em;
 }
 
+/* Responsive Images */
+img {
+	display: block;
+	max-width: 100%;
+}
+
 /* For larger screens */
 @media screen and (min-width: 990px) {
 	html { font-size: 1.8em; }
