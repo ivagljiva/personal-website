@@ -49,7 +49,7 @@ table {
 /* End Reset CSS */
 /* Begin Site Styles */
 
-/* Using modular scale http://modularscale.com/?18px&1.667 */
+/* Using modular scale http://www.modularscale.com/?18&px&1.333 */
 
 html {
 	text-rendering: optimizeLegibility;
@@ -66,9 +66,17 @@ html {
 	padding-right: 1.222em;
 }
 h1 {
-	font-size: 2.778em; /* 50.02px / 18px =  2.778 */
-	line-height: 1.319em; /* 3 gridlines of 22px; 66px / 50.02px = 1.319 */
+	font-size: 2.369em; /* 42.635px / 18px =  2.369 */
+	line-height: 1.548em; /* 3 gridlines of 22px; 66px / 42.635px = 1.548 */
 	text-align: center;
+}
+h2 {
+	font-size: 1.777em; /* 31.984px / 18px */
+	line-height: 1.3757em; /* 2 gridlines of 22px; 44px / 31.984px = 1.3757 */
+}
+h3 {
+	font-size: 1.333em; /* 23.994px / 18 px */
+	line-height: 1.375em; /* 1.5 gridlines of 22 px; 33 px / 23.994px = 1.375 */
 }
 p {
 	text-align: left;
