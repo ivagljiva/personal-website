@@ -55,8 +55,8 @@ html {
 	-moz-text-size-adjust: 100;
 	-ms-text-size-adjust: 100%;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 1.125em; /* 18px / 16px */
-	line-height: 1.222em; /* 22px / 18px */
+	font-size: 1.125em; /* 18px / 16px = 1.125*/
+	line-height: 1.222em; /* 22px / 18px = about 120%*/
 }
 h1 {
 	text-align: center;
@@ -64,6 +64,7 @@ h1 {
 p {
 	text-align: left;
 	text-indent: 2em;
+	padding-bottom: 1.222em; /* = 1 line-height */
 }
 
 /* Responsive Images */
