@@ -73,9 +73,8 @@ h1 {
 p {
 	text-align: left;
 	text-indent: 2em;
-	padding-bottom: 1.222em; /* = 1 line-height */
 }
-figure {
+p, figure {
 	padding-bottom: 1.222em; /* = 1 line-height */
 }
 
